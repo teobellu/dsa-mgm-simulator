@@ -9,6 +9,8 @@ In this repository you can also find theoretical slides about the algorithms and
 
 Looking for the software? Check the [releases](https://github.com/teobellu/dsa-mgm-simulator/releases) page!
 
+ <img src="https://github.com/teobellu/dsa-mgm-simulator/blob/master/images/demo1.png" width="350"> <img src="https://github.com/teobellu/dsa-mgm-simulator/blob/master/images/demo2.png" width="350">
+
 Note: the first version of the software was presented on April 10, 2019, at the conference room (ground floor, building 20) of the Politecnico di Milano.
 
 ## Reference
