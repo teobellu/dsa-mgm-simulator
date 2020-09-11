@@ -1,4 +1,4 @@
-# dsa-mgm-simulator
+# Dsa & Mgm Simulator
 
 [![JDK](https://img.shields.io/badge/java-11%20%7C%2012-blue.svg)](https://www.oracle.com/technetwork/java/javase/jdk-relnotes-index-2162236.html)
 ![GitHub release](https://img.shields.io/github/release/teobellu/dsa-mgm-simulator.svg)
